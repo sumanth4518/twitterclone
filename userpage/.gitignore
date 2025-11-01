@@ -1,0 +1,11 @@
+
+# Ignore environment files and venv
+.env
+venv/
+__pycache__/
+db.sqlite3
+
+# Ignore IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
